@@ -12,8 +12,6 @@ The main problem with the contact form is its validation.
 
 For the Name input – the user can input numbers and it would still be submitted. Also there is no character limits to be submitted.
 
-Post code- has no required character limits.
-
 Email Input – No required number inputs.
 
 Contact Telephone – Allows words to be entered and submitted.
