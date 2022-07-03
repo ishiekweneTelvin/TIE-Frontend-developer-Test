@@ -2,9 +2,11 @@
 
 
 
-Redesigned and Added Validation to Contact Form
+<h3>Redesigned and Added Validation to Contact Form</h3>
 
-Contact Form.
+
+
+<h4>What is wrong with the component you chose? </h4>
 
 The main problem with the contact form is its validation.
 
@@ -20,7 +22,7 @@ Subject – No required character limits
 
 Message – No required character limits.
 
- <h1>How will I improve it?</h2>
+ <h4>How will I improve it?</h4>
 
 By adding proper validation to ensure proper/correct information is entered in the form.
 
