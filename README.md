@@ -26,9 +26,9 @@ Message – No required character limits.
 
 By adding proper validation to ensure proper/correct information is entered in the form.
 
-The problems listed above were addressed and made funtional
+The problems listed above were addressed and made funtional.
 
 
-Given more time what would you further improve? 
+<h4>Given more time what would you further improve? </h4>
 Redesigning the blog section - to make it more interactive.
 
